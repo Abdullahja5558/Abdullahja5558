@@ -1,5 +1,7 @@
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/EXPLORE_PORTFOLIO-8A2BE2?style=for-the-badge&logo=react&logoColor=white)](https://aj-code.vercel.app/)
+
 # 🌌 ABDULLAH JAVED
 ### `PRINCIPAL WEB ARCHITECT` • `REACT NATIVE ENGINEER` • `SYSTEM STRATEGIST`
 
