@@ -30,10 +30,10 @@
 
 | OBJECTIVE | TECHNICAL STACK | ARCHITECTURAL STATUS |
 | :--- | :--- | :--- |
-| **Native UI** | Flexbox / Gesture Handler | `[🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘◽◽◽◽◽]` **75%** |
+| **Native UI** | Flexbox / Gesture Handler | `[🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘◽]` **95%** |
 | **State Logic** | Redux Toolkit / Zustand | `[🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘]` **100%** |
-| **Native Bridge** | JSI / Turbo Modules | `  [🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘◽◽◽◽◽◽]` **65%** |
-| **Mobile UX** | Fast Refresh / Reanimated | `[🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘◽◽◽◽◽◽◽◽]` **60%** |
+| **Native Bridge** | JSI / Turbo Modules | `  [🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘◽◽]` **85%** |
+| **Mobile UX** | Fast Refresh / Reanimated | `[🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘🔘◽]` **90%** |
 
 ---
 
