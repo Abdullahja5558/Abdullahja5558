@@ -52,7 +52,7 @@
 <p align="center">
   <a href="abdullahjaved5558@gmail.com"><img src="https://img.shields.io/badge/COMMUNICATION-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/abdullahjaved"><img src="https://img.shields.io/badge/PROFESSIONAL_LINK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://aj-code.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
